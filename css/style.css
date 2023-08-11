@@ -1,5 +1,5 @@
 :root{
-    --iriscolor: #4d5ae5 ;
+    --iriscolor: #4d5ae5;
     --navyblue:  #2e2f42;
     --black: #000000;
     --oceancolor: #2196f3;
@@ -231,6 +231,7 @@ body{
 /* portfolio header */
 .header{
     border-bottom: 1px solid var(--cornflower, #E7E9FC);
+    padding: 24px 0px;
 }
 /* portfolio section 2 */
 .nav-button{
